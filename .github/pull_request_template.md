@@ -1,7 +1,3 @@
----
-name: New pull request
-about: default pr template
----
 **Description:** [Please describe the background, purpose, changes made, and how to test this PR]
 
 **Related Issues:** [List the issue numbers related to this PR]
