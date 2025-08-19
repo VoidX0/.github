@@ -1,10 +1,8 @@
-**Description:** [Please describe the background, purpose, changes made, and how to test this PR]
+**Description:** 
 
-**Related Issues:** [List the issue numbers related to this PR]
+**Related Issues:** 
 
 **TODO**
-- [ ] task1
-- [ ] ...
 
 **Checklist:**
 
@@ -14,4 +12,4 @@
 - [ ]  Code does not affect the normal use of existing features
 - [ ]  Documentation has been updated
 
-**Screenshots:** [Provide relevant screenshots or GIF animations]
+**Screenshots:** 
